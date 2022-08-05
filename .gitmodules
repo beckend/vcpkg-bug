@@ -1,0 +1,3 @@
+[submodule "path 1/path 2/path 3/vcpkg"]
+	path = path 1/path 2/path 3/vcpkg
+	url = https://github.com/microsoft/vcpkg.git
